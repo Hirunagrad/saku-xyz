@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Aditya
+## 👋 &nbsp;Hey there! I'm Sakuntha.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
