@@ -1,6 +1,6 @@
 # Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓
 [![Twitter: @Saku_rush](https://img.shields.io/twitter/follow/saku_rush?style=social)](https://twitter.com/@Saku_rush)
-[![Linkedin: sakuntha-bimsara-9870b1154](https://img.shields.io/badge/-sakuntha-bimsara-9870b1154-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakuntha-bimsara-9870b1154/)](https://www.linkedin.com/in/sakuntha-bimsara-9870b1154/)
+[![GitHub: @saku97](https://img.shields.io/github/followers/saku97?label=follow&style=social)](https://github.com/saku97)
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saku97&color=brightgreen" alt="hello dude!" /> </p>
