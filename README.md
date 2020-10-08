@@ -7,10 +7,9 @@
 I'm a Full-stack Developer who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently working at Codezilla (PVT) Ltd.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
-<hr>
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
@@ -37,3 +36,6 @@ I'm a Full-stack Developer who is passionate about writing code, solving problem
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="hi,dude!" height="30"
         width="40" /></a>
 </p>
+
+## ⚡ Stats
+![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku97&show_icons=true)
