@@ -1,4 +1,5 @@
 # Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓
+[![Twitter: @Saku_rush](https://img.shields.io/twitter/follow/@Saku_rush?style=social)](https://twitter.com/@Saku_rush)
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saku97&color=brightgreen" alt="BuddhikaD" /> </p>
 
