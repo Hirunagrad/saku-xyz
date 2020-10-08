@@ -1,15 +1,15 @@
 # Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓
 <hr>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a Full-stack Developer who is passionate about writing code, solving problems, automating stuff, and building software.
+<h3>I'm a Full-stack Developer who is passionate about writing code, solving problems, automating stuff, and building software. </h3>
 
 - 🔭 I’m currently working at Codezilla (PVT) Ltd.
 - 📚 I’m currently learning Data Science and Machine Learning.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sakuntha-bimsara-9870b1154/) [Gmail](mailto:sakuofficial@gmail.com)
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
