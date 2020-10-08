@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓</h1>
 
-<p align="left">
+<p align="center">
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/sakuntha-bimsara-9870b1154/" target="blank"><img align="center"
