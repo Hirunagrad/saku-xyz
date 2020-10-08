@@ -1,6 +1,7 @@
 # Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓
 [![Twitter: @Saku_rush](https://img.shields.io/twitter/follow/saku_rush?style=social)](https://twitter.com/@Saku_rush)
 [![GitHub: @saku97](https://img.shields.io/github/followers/saku97?label=follow&style=social)](https://github.com/saku97)
+[![Stack Overflow: chetanya](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/8167963/sakurush)](https://stackoverflow.com/users/8167963/sakurush)
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saku97&color=brightgreen" alt="hello dude!" /> </p>
