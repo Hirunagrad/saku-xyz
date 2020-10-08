@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Sakuntha. 👋🤓</h1>
+<h1 align="center">Hello there! I'm Sakuntha. &nbsp; 👋🤓</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
