@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓</h1>
 
 <p align="center">
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/sakuntha-bimsara-9870b1154/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hi,dude!"
@@ -25,6 +25,7 @@
 <a href="#" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="hi,dude!" height="30"
         width="40" /></a>
+        </p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
