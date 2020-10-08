@@ -18,14 +18,14 @@
 <a href="https://www.instagram.com/delta___fx/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hi,dude!" height="30"
         width="40" /></a>
-</p>
-<a href="https://www.facebook.com/sakurush/" target="blank"><img align="center"
+        <a href="https://www.facebook.com/sakurush/" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hi,dude!" height="30"
         width="40" /></a>
 <a href="#" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="hi,dude!" height="30"
         width="40" /></a>
-        </p>
+</p>
+
 
 
 ### 👨🏻‍💻 &nbsp;About Me
