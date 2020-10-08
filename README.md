@@ -1,4 +1,4 @@
-# Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓
+<h1> Hi, I'm <span style="color:#d933h4">Sakuntha!</span> </h1> 👋 👋🤓
 [![Twitter: @Saku_rush](https://img.shields.io/twitter/follow/saku_rush?style=social)](https://twitter.com/@Saku_rush)
 [![GitHub: @saku97](https://img.shields.io/github/followers/saku97?label=follow&style=social)](https://github.com/saku97)
 
