@@ -1,6 +1,6 @@
 # Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 👋🤓
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&color=brightgreen" alt="BuddhikaD" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saku97&color=brightgreen" alt="BuddhikaD" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
