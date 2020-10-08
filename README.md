@@ -38,6 +38,6 @@ I'm a Full-stack Developer who is passionate about writing code, solving problem
 </p>
 
 ## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku97&show_icons=true)
+<div style="margin-top:-10px">![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saku97&show_icons=true)</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
