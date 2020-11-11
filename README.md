@@ -14,7 +14,7 @@
 <h4>I'm a Full-stack Developer who is passionate about writing code, solving problems, automating stuff, and building software. </h4>
 
 - 🔭 I’m currently working at Codezilla (PVT) Ltd.
-- 📚 I’m currently learning Data Science and Machine Learning.
+- 📚 I’m currently learning Everything.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sakuntha-bimsara-9870b1154/) [Gmail](mailto:sakuofficial@gmail.com)
 
 <p align="center">
