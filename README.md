@@ -1,11 +1,11 @@
 # Hi, I'm [Sakuntha](http://sakuntha.me)! 👋 🤓
 
 [![Twitter: @Saku_rush](https://img.shields.io/twitter/follow/saku_rush?style=social)](https://twitter.com/@Saku_rush)
-[![GitHub: @saku97](https://img.shields.io/github/followers/saku97?label=follow&style=social)](https://github.com/saku97)
+[![GitHub: @saku-xyz](https://img.shields.io/github/followers/saku-xyz?label=follow&style=social)](https://github.com/saku-xyz)
 [![Stack Overflow: chetanya](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/8167963/sakurush)](https://stackoverflow.com/users/8167963/sakurush)
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saku97&color=brightgreen" alt="hello dude!" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saku-xyz&color=brightgreen" alt="hello dude!" /> </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -26,7 +26,7 @@
 <a href="https://twitter.com/Saku_rush" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hi,dude!" height="30"
         width="40" /></a>
-<a href="https://dev.to/saku97" target="blank"><img align="center"
+<a href="https://dev.to/saku-xyz" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hi,dude!" height="30"
         width="40" /></a>
 <a href="https://stackoverflow.com/users/8167963/sakurush" target="blank"><img align="center"
@@ -44,5 +44,5 @@
 </p>
 
 ## ⚡ Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saku97&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saku-xyz&layout=compact&langs_count=10)
 <hr>
